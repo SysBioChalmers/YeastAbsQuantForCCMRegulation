@@ -1,0 +1,132 @@
+Systematic ID	Gene name	Product description
+SPCC18.01c	adg3	beta-glucosidase Adg3 (predicted)
+SPAPB24D3.10c	agl1	maltose alpha-glucosidase Agl1
+SPAC14C4.09	agn1	cell wall glucan endo-1,3-alpha-glucosidase Agn1
+SPBC646.06c	agn2	glucan endo-1,3-alpha-glucosidase Agn2
+SPCC1281.01	ags1	cell wall alpha-1,3-glucan synthase Ags1
+SPAC513.05	ams1	alpha-mannosidase Ams1 (predicted)
+SPAC13G6.10c	asl1	cell wall protein Asl1, predicted O-glucosyl hydrolase
+SPCC1672.06c	asp1	diphosphoinositol pentakisphosphate kinase/InsP8 pyrophosphatase
+SPAC26H5.08c	bgl2	glucan beta-glucosidase Bgl2 (predicted)
+SPBC19G7.05c	bgs1	primary septum and spore wall linear 1,3-beta-glucan synthase catalytic subunit Bgs1
+SPAC24C9.07c	bgs2	spore wall 1,3-beta-glucan synthase catalytic subunit Bgs2
+SPAC19B12.03	bgs3	cell wall 1,3-beta-glucan synthase catalytic subunit Bgs3
+SPCC1840.02c	bgs4	cell wall and secondary septum 1,6 branched 1,3-beta-glucan synthase catalytic subunit Bgs4
+SPAC19G12.03	cda1	chitin deacetylase Cda1
+SPAC110.03	cdc42	Rho family GTPase Cdc42
+SPBC3E7.12c	cfh4	chitin synthase regulatory factor Cfh4 (predicted)
+SPBC1289.01c	chr4	1,3-beta-glucan synthase regulatory factor Chf3/Chr4
+SPAC13G6.12c	chs1	chitin synthase I
+SPAC22A12.11	dak1	dihydroxyacetone kinase Dak1
+SPAC977.16c	dak2	dihydroxyacetone kinase Dak2
+SPAC513.06c	dhd1	D-xylose 1-dehydrogenase (NADP+) (predicted)
+SPAC821.09	eng1	cell septum surface endo-1,3-beta-glucanase Eng1
+SPAC23D3.10c	eng2	cell wall and ascospore endo-1,3-beta-glucanase Eng2
+SPBC1815.01	eno101	enolase (predicted)
+SPBPB21E7.01c	eno102	enolase (predicted)
+SPBC1105.05	exg1	cell wall glucan 1,6-beta-glucosidase Exg1
+SPBC2D10.05	exg3	cell wall glucan 1,3-beta-glucosidase Exg3
+SPBC19C2.07	fba1	fructose-bisphosphate aldolase Fba1
+SPBC1198.14c	fbp1	fructose-1,6-bisphosphatase Fbp1
+SPBPB2B2.13	gal1	galactokinase Gal1
+SPBPB2B2.12c	gal10	UDP-glucose 4-epimerase/aldose 1-epimerase Gal10
+SPBPB2B2.10c	gal7	galactose-1-phosphate uridylyltransferase Gal7
+SPAC19B12.02c	gas1	cell wall 1,3-beta-glucanosyltransferase Gas1
+SPBC29A10.08	gas2	cell wall 1,3-beta-glucanosyltransferase Gas2
+SPBC342.03	gas4	spore wall 1,3-beta-glucanosyltransferase Gas4
+SPAC11E3.13c	gas5	cell wall protein 1,3-beta-glucanosyltransferase Gas5 (predicted)
+SPCC794.01c	gcd1	glucose dehydrogenase Gcd1
+SPCC1259.12c	gid1	GID complex subunit, Ran GTPase binding protein Gid1 (predicted)
+SPBC29A3.03c	gid2	GID complex ubiquitin-protein ligase E3 subunit Gid2/Rmd5 (predicted)
+SPAC3H1.14	gid4	GID complex subunit Gid4 (predicted)
+SPAC26H5.04	gid5	GID complex armadillo repeat subunit Gid5 (predicted)
+SPAC343.04c	gid7	GID complex subunit Gid7 (predicted)
+SPAC12B10.13	gid8	GID complex subunit Gid8 (predicted)
+SPBC106.13	gid9	GID complex subunit Gid9 (predicted)
+SPAC13F5.03c	gld1	mitochondrial glycerol dehydrogenase Gld1
+SPAC6G10.09	gls1	glucosidase I Gls1
+SPBC660.16	gnd1	phosphogluconate dehydrogenase, decarboxylating
+SPBC215.05	gpd1	glycerol-3-phosphate dehydrogenase Gpd1
+SPAC23D3.04c	gpd2	glycerol-3-phosphate dehydrogenase Gpd2
+SPBC354.12	gpd3	glyceraldehyde 3-phosphate dehydrogenase Gpd3
+SPAC26F1.06	gpm1	monomeric 2,3-bisphosphoglycerate (BPG)-dependent phosphoglycerate mutase (PGAM), Gpm1
+SPAC1039.11c	gto1	alpha-glucosidase (predicted)
+SPAC30D11.01c	gto2	alpha-glucosidase (predicted)
+SPCC1223.03c	gut2	glycerol-3-phosphate dehydrogenase Gut2 (predicted)
+SPAC24H6.04	hxk1	hexokinase 1
+SPAC4F8.07c	hxk2	hexokinase 2
+SPAC4G9.12	idn1	gluconokinase
+SPCC191.11	inv1	external invertase, beta-fructofuranosidase Inv1
+SPBC1683.07	mal1	maltase alpha-glucosidase Mal1
+SPAC869.07c	mel1	alpha-galactosidase, melibiase
+SPBC14C8.05c	meu17	glucan-alpha-1,4-glucosidase
+SPAC1527.01	mok11	alpha-1,3-glucan synthase Mok11
+SPBC32H8.13c	mok12	prospore membrane alpha-1,3-glucan synthase Mok12
+SPBC16D10.05	mok13	alpha-1,3-glucan synthase Mok13
+SPCC63.04	mok14	alpha-1,4-glucan synthase Mok14
+SPAC12B10.16c	mug157	alpha-mannosidase GH125 family Mug157 (predicted)
+SPAC3C7.05c	mug191	alpha-1,6- mannanase (predicted)
+SPBC660.07	ntp1	alpha,alpha-trehalase Ntp1
+SPAC17G8.14c	pck1	protein kinase C (PKC)-like Pck1
+SPBC12D12.04c	pck2	protein kinase C (PKC)-like Pck2
+SPBC16H5.02	pfk1	6-phosphofructokinase pfk1
+SPBC1604.05	pgi1	glucose-6-phosphate isomerase (predicted)
+SPBC14F5.04c	pgk1	phosphoglycerate kinase Pgk1 (predicted)
+SPBC725.11c	php2	CCAAT-binding factor complex subunit Php2
+SPAC32A11.03c	phx1	stationary phase-specific homeobox transcription factor Phx1
+SPBC106.10	pka1	cAMP-dependent protein kinase catalytic subunit Pka1
+SPAC1002.13c	psu1	cell wall beta-glucosidase Psu1 (predicted)
+SPAC8F11.10c	pvg1	Golgi pyruvyltransferase Pvg1
+SPAC27E2.07	pvg2	Golgi 4,6-pyruvylated galactose (PvGal) residue biosynthesis protein Pvg2
+SPBC1921.06c	pvg3	Golgi galactosylxylosylprotein 3-beta-galactosyltransferase Pvg3
+SPAC22F8.02c	pvg5	Golgi 4,6-pyruvylated galactose (PvGal) residue biosynthesis protein Pvg5
+SPAC4H3.10c	pyk1	pyruvate kinase
+SPBC17G9.11c	pyr1	pyruvate carboxylase Pyr1
+SPBC16G5.02c	rbk1	ribokinase Rbk1 (predicted)
+SPAC227.15	reg1	protein phosphatase regulatory subunit Reg1 (predicted)
+SPBC17F3.01c	rga5	RhoGAP, GTPase activating protein Rga5
+SPCC645.07	rgf1	RhoGEF for Rho1, Rgf1
+SPCC645.06c	rgf3	RhoGEF Rgf3
+SPAC1F7.04	rho1	Rho family GTPase Rho1
+SPAC16.01	rho2	Rho family GTPase Rho2
+SPBP22H7.03	sbg1	plasma membrane-actinomyosin ring linker protein Sbg1
+SPAC8E11.01c	suc2	sucrose alpha-glucosidase Suc2 (predicted)
+SPBC32F12.11	tdh1	glyceraldehyde-3-phosphate dehydrogenase Tdh1
+SPBC1773.05c	tms1	hexitol dehydrogenase (predicted)
+SPCC24B10.21	tpi1	triosephosphate isomerase
+SPAC19G12.15c	tpp1	trehalose-6-phosphate phosphatase Tpp1
+SPAC328.03	tps1	alpha,alpha-trehalose-phosphate synthase [UDP-forming]
+SPAC3G6.09c	tps2	trehalose-phosphate synthase Tps2 (predicted)
+SPACUNK4.16c	tps3	alpha,alpha-trehalose-phosphate synthase (predicted)
+SPBC365.14c	uge1	UDP-glucose 4-epimerase Uge1
+SPCPJ732.02c	xks1	xylulose kinase Xks1 (predicted)
+SPAC3A12.18	zwf1	glucose-6-phosphate 1-dehydrogenase Zwf1
+SPAC144.17c		6-phosphofructo-2-kinase (predicted)
+SPAC1687.21		fructose-2,6-bisphosphatase, human TIGAR ortholog (predicted)
+SPAC17G6.11c		sphingolipid biosynthesis protein (predicted)
+SPAC222.13c		6-phosphofructo-2-kinase (predicted)
+SPAC22F8.05		alpha,alpha-trehalose-phosphate synthase (predicted)
+SPAC23H3.11c		beta-glucan biosynthesis protein (predicted)
+SPAC25B8.09		trans-aconitate 3-methyltransferase (predicted)
+SPAC26F1.07		glucose 1-dehydrogenase (NADP+) (predicted)
+SPAC2F3.05c		xylose and arabinose reductase (predicted)
+SPAC3C7.13c		glucose-6-phosphate 1-dehydrogenase (predicted)
+SPAC4H3.03c		glucan 1,4-alpha-glucosidase (predicted)
+SPAC732.02c		fructose-2,6-bisphosphate 2-phosphatase activity (predicted)
+SPAC8E11.10		sorbose reductase (predicted)
+SPAP32A8.02		xylose and arabinose reductase (predicted)
+SPAPB17E12.14c		6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase (predicted)
+SPAPB1E7.04c		chitinase (predicted)
+SPBC1198.06c		mannan endo-1,6-alpha-mannosidase (predicted)
+SPBC1198.07c		mannan endo-1,6-alpha-mannosidase (predicted)
+SPBC11C11.05		cell wall 1,6-beta-glucan biosynthesis protein, KRE9 family (predicted)
+SPBC1683.04		glycosyl hydrolase family 3 (predicted)
+SPBC21B10.07		glycosyl hydrolase family (predicted)
+SPBC28F2.05c		xylose and arabinose reductase (predicted)
+SPBC2G2.17c		beta-glucosidase Psu2 (predicted)
+SPBC32F12.10		phosphoglucomutase (predicted)
+SPBC8E4.04		alditol NADP+ 1-oxidoreductase activity (predicted)
+SPBP23A10.11c		circularly permuted 1,3-beta-glucanase (predicted)
+SPCC11E10.09c		alpha-amylase homolog (predicted)
+SPCC1840.05c		phosphoglucomutase (predicted)
+SPCC970.02		mannan endo-1,6-alpha-mannosidase (predicted)
