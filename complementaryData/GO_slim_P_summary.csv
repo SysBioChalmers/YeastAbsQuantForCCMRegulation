@@ -1,0 +1,103 @@
+"GO-Slim term","order","color","genes.in.GO","genes.not.in.GO"
+"amino acid transport","a","red",42,3085
+"carbohydrate metabolic process","a","red",198,2929
+"carbohydrate transport","a","red",33,3094
+"cellular amino acid metabolic process","a","red",199,2928
+"cellular ion homeostasis","a","red",128,2999
+"cellular respiration","a","red",84,3043
+"cofactor metabolic process","a","red",179,2948
+"generation of precursor metabolites and energy","a","red",155,2972
+"ion transport","a","red",262,2865
+"lipid metabolic process","a","red",296,2831
+"lipid transport","a","red",68,3059
+"monocarboxylic acid metabolic process","a","red",140,2987
+"nucleobase-containing small molecule metabolic process","a","red",198,2929
+"oligosaccharide metabolic process","a","red",27,3100
+"proteolysis involved in cellular protein catabolic process","a","red",216,2911
+"regulation of transport","a","red",85,3042
+"transmembrane transport","a","red",233,2894
+"vitamin metabolic process","a","red",43,3084
+"mitochondrial translation","a","red",167,2960
+"mitochondrion organization","a","red",424,2703
+"cytoplasmic translation","b","darkorange",180,2947
+"Golgi vesicle transport","b","darkorange",191,2936
+"peptidyl-amino acid modification","b","darkorange",151,2976
+"protein acylation","b","darkorange",66,3061
+"protein alkylation","b","darkorange",50,3077
+"protein complex biogenesis","b","darkorange",293,2834
+"protein dephosphorylation","b","darkorange",49,3078
+"protein folding","b","darkorange",95,3032
+"protein glycosylation","b","darkorange",62,3065
+"protein lipidation","b","darkorange",45,3082
+"protein maturation","b","darkorange",52,3075
+"protein modification by small protein conjugation or removal","b","darkorange",170,2957
+"protein targeting","b","darkorange",310,2817
+"regulation of protein modification process","b","darkorange",111,3016
+"regulation of translation","b","darkorange",105,3022
+"ribosomal large subunit biogenesis","b","darkorange",104,3023
+"ribosomal small subunit biogenesis","b","darkorange",135,2992
+"ribosomal subunit export from nucleus","b","darkorange",46,3081
+"ribosome assembly","b","darkorange",59,3068
+"rRNA processing","b","darkorange",311,2816
+"snoRNA processing","b","darkorange",45,3082
+"translational elongation","b","darkorange",334,2793
+"translational initiation","b","darkorange",61,3066
+"tRNA aminoacylation for protein translation","b","darkorange",36,3091
+"tRNA processing","b","darkorange",109,3018
+"DNA-templated transcription, elongation","c","purple",97,3030
+"DNA-templated transcription, initiation","c","purple",72,3055
+"DNA-templated transcription, termination","c","purple",43,3084
+"mRNA processing","c","purple",170,2957
+"nuclear transport","c","purple",181,2946
+"nucleobase-containing compound transport","c","purple",143,2984
+"RNA catabolic process","c","purple",132,2995
+"RNA modification","c","purple",172,2955
+"RNA splicing","c","purple",144,2983
+"transcription from RNA polymerase I promoter","c","purple",68,3059
+"transcription from RNA polymerase II promoter","c","purple",481,2646
+"transcription from RNA polymerase III promoter","c","purple",41,3086
+"cell budding","d","green3",58,3069
+"cell morphogenesis","d","green3",29,3098
+"cell wall organization or biogenesis","d","green3",198,2929
+"chromosome segregation","d","green3",203,2924
+"conjugation","d","green3",124,3003
+"cytokinesis","d","green3",89,3038
+"cytoskeleton organization","d","green3",238,2889
+"endocytosis","d","green3",98,3029
+"endosomal transport","d","green3",102,3025
+"exocytosis","d","green3",49,3078
+"meiotic cell cycle","d","green3",287,2840
+"membrane fusion","d","green3",76,3051
+"mitotic cell cycle","d","green3",324,2803
+"organelle assembly","d","green3",135,2992
+"organelle fission","d","green3",302,2825
+"organelle fusion","d","green3",89,3038
+"organelle inheritance","d","green3",60,3067
+"peroxisome organization","d","green3",50,3077
+"pseudohyphal growth","d","green3",74,3053
+"regulation of cell cycle","d","green3",233,2894
+"regulation of organelle organization","d","green3",248,2879
+"sporulation","d","green3",138,2989
+"transposition","d","green3",21,3106
+"vacuole organization","d","green3",88,3039
+"vesicle organization","d","green3",81,3046
+"cellular response to DNA damage stimulus","e","blue",299,2828
+"invasive growth in response to glucose limitation","e","blue",59,3068
+"protein phosphorylation","e","blue",197,2930
+"response to chemical","e","blue",446,2681
+"response to heat","e","blue",73,3054
+"response to osmotic stress","e","blue",92,3035
+"response to oxidative stress","e","blue",105,3022
+"response to starvation","e","blue",56,3071
+"signaling","e","blue",245,2882
+"chromatin organization","f","gold",318,2809
+"DNA recombination","f","gold",179,2948
+"DNA repair","f","gold",246,2881
+"DNA replication","f","gold",139,2988
+"histone modification","f","gold",114,3013
+"nucleus organization","f","gold",66,3061
+"regulation of DNA metabolic process","f","gold",107,3020
+"telomere organization","f","gold",78,3049
+"biological_process","g","grey",1801,1326
+"not_yet_annotated","g","grey",1,3126
+"other","g","grey",249,2878
