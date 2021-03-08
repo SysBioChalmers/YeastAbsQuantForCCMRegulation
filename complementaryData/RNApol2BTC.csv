@@ -1,0 +1,68 @@
+Accession,Gene,annotation,details
+P13393,SPT15,RNA pol II regulator,TBP
+P24813,CAD1,RNA pol II regulator,GTF
+P38782,MED6,RNA pol II regulator,Mediator
+P38304,MED8,RNA pol II regulator,Mediator
+Q99278,MED11,RNA pol II regulator,Mediator
+P32569,MED17,RNA pol II regulator,Mediator
+P32585,MED18,RNA pol II regulator,Mediator
+P34162,MED20,RNA pol II regulator,Mediator
+P32570,MED22,RNA pol II regulator,Mediator
+P25046,MED19,RNA pol II regulator,Mediator
+Q12321,MED1,RNA pol II regulator,Mediator
+Q12343,MED4,RNA pol II regulator,Mediator
+Q08278,MED7,RNA pol II regulator,Mediator
+P33308,MED9,RNA pol II regulator,Mediator
+Q06213,MED10,RNA pol II regulator,Mediator
+P47822,MED21,RNA pol II regulator,Mediator
+P38633,MED31,RNA pol II regulator,Mediator
+P19263,MED14,RNA pol II regulator,Mediator
+Q12124,MED2,RNA pol II regulator,Mediator
+P40356,MED3,RNA pol II regulator,Mediator
+P53114,MED5,RNA pol II regulator,Mediator
+P19659,MED15,RNA pol II regulator,Mediator
+P32259,MED16,RNA pol II regulator,Mediator
+P25648,MED12,RNA pol II regulator,Mediator
+P38931,MED13,RNA pol II regulator,Mediator
+P39073,SSN3,RNA pol II regulator,Mediator
+P47821,SSN8,RNA pol II regulator,Mediator
+P32774,TOA2,RNA pol II regulator,TFIIA
+P32773,TOA1,RNA pol II regulator,TFIIA
+P32767,KA122,RNA pol II regulator,TFIIA
+P29055,SUA7,RNA pol II regulator,TFIIB
+P46677,TAF1,RNA pol II regulator,TFIID
+Q12030,TAF10,RNA pol II regulator,TFIID
+Q04226,TAF11,RNA pol II regulator,TFIID
+Q03761,TAF12,RNA pol II regulator,TFIID
+P11747,TAF13,RNA pol II regulator,TFIID
+P35189,TAF14,RNA pol II regulator,TFIID
+P23255,TAF2,RNA pol II regulator,TFIID
+Q12297,TAF3,RNA pol II regulator,TFIID
+P50105,TAF4,RNA pol II regulator,TFIID
+P38129,TAF5,RNA pol II regulator,TFIID
+P53040,TAF6,RNA pol II regulator,TFIID
+Q05021,TAF7,RNA pol II regulator,TFIID
+Q03750,TAF8,RNA pol II regulator,TFIID
+Q05027,TAF9,RNA pol II regulator,TFIID
+P36100,TFA1,RNA pol II regulator,TFIIE
+P41895,TFG1,RNA pol II regulator,TFIIF
+P41896,TFG2,RNA pol II regulator,TFIIF
+P06839,RAD3,RNA pol II regulator,TFIIH
+Q04673,SSL1,RNA pol II regulator,TFIIH
+Q00578,SSL2,RNA pol II regulator,TFIIH
+P32776,TFB1,RNA pol II regulator,TFIIH
+Q02939,TFB2,RNA pol II regulator,TFIIH
+Q03290,TFB3,RNA pol II regulator,TFIIH
+Q12004,TFB4,RNA pol II regulator,TFIIH
+P22139,RPB10,RNA pol II subunit,II and shared
+P38902,RPB11,RNA pol II subunit,II and shared
+P08518,RPB2,RNA pol II subunit,II and shared
+P16370,RPB3,RNA pol II subunit,II and shared
+P20433,RPB4,RNA pol II subunit,II and shared
+P20434,RPB5,RNA pol II subunit,II and shared
+P34087,RPB7,RNA pol II subunit,II and shared
+P20436,RPB8,RNA pol II subunit,II and shared
+P27999,RPB9,RNA pol II subunit,II and shared
+P40422,RPC10,RNA pol II subunit,II and shared
+P04050,RPO21,RNA pol II subunit,II and shared
+P20435,RPO26,RNA pol II subunit,II and shared
