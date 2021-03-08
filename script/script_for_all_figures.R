@@ -1,0 +1,22 @@
+library(readr)
+library(readxl)
+library("RColorBrewer")
+library("gplots")
+library(drc)
+library(BSDA)
+library(vioplot)
+library(lmodel2)
+library(data.table)
+library('corrplot')
+library(plyr)
+library(lmodel2)
+library("cluster")
+library("factoextra")
+library("magrittr")
+library("NbClust")
+
+
+
+Table_S2_eLife <- read_csv("Supplementary File 1b.csv")
+Table_S3 <- read_csv("Supplementary File 1c.csv")
+Table_S4 <- read_csv("Supplementary File 1d.csv")
